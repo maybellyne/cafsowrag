@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://maybellyne.github.io/cafsowrag/sitemap.xml
