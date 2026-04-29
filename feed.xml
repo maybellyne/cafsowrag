@@ -3,7 +3,7 @@
     <title>CAFSOWRAG for Development</title>
     <link href="https://maybellyne.github.io/cafsowrag/feed.xml" rel="self" />
     <link href="https://maybellyne.github.io/cafsowrag" />
-    <updated>2026-04-28T20:21:16-06:00</updated>
+    <updated>2026-04-28T20:25:06-06:00</updated>
     <author>
         <name>CAFSOWRAG</name>
     </author>
@@ -379,9 +379,8 @@
         <content type="html">
             <![CDATA[
                 <p>From the Challenges of MDGs to the Prospects of SDGs: An Agenda Setting for a Better Global Development Paradigm by David Tola Winjobi (PhD) Convener, Campaign2015+ International, Nigeria</p>
-<div class="pdf-container"><iframe loading="lazy" height="700px" style="border: none;" src="/cafsowrag/media/files/From-MDGs-to-SDGs-Hope-for-Better-Global-Agenda.pdf
-    width=" 100="">
-	</iframe></div>
+<div class="pdf-container"><div class="post__iframe"><iframe loading="lazy" width="100%" height="700px" style="border: none;" src="/cafsowrag/media/files/From-MDGs-to-SDGs-Hope-for-Better-Global-Agenda.pdf">
+  </iframe></div></div>
             ]]>
         </content>
     </entry>
