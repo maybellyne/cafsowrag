@@ -3,7 +3,7 @@
     <title>CAFSOWRAG for Development</title>
     <link href="https://maybellyne.github.io/cafsowrag/feed.xml" rel="self" />
     <link href="https://maybellyne.github.io/cafsowrag" />
-    <updated>2026-04-17T17:09:00-06:00</updated>
+    <updated>2026-04-28T19:15:12-06:00</updated>
     <author>
         <name>Maybellyne</name>
     </author>
@@ -56,15 +56,10 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><!-- wp:paragraph --></p>
-<p>A press statement issued by the Think-Do Tank Group of the Civil Society Coalition on Sustainable Development (CSCSD) on emerging developments in fighting COVID-19 pandemic in Nigeria. <br><br>The Think-Do Tank Group is national arm of Civil Society Coalition on Sustainable Development(CSCSD)which is a coalition of over 2,000-member networks, NGOs, media, professional associations including the academia, youth and women groups collaborating with government to accelerate the implementation of SGDs in Nigeria. </p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:algori-pdf-viewer/block-algori-pdf-viewer {"url":"/wp-content/uploads/2020/04/CSCSD-The-Think-Do-Tank-Group-Press-Statement.pdf","width":860,"height":1000,"id":2545} --></p>
-<div class="wp-block-algori-pdf-viewer-block-algori-pdf-viewer"><div class="post__iframe"><iframe loading="lazy" class="wp-block-algori-pdf-viewer-block-algori-pdf-viewer-iframe" src="/wp-content/plugins/algori-pdf-viewer/dist/web/viewer.html?file=%2Fwp-content%2Fuploads%2F2020%2F04%2FCSCSD-The-Think-Do-Tank-Group-Press-Statement.pdf" style="width:860px;height:1000px"></iframe></div></div>
-<p>
-<!-- /wp:algori-pdf-viewer/block-algori-pdf-viewer --></p>
-
+                <div class="pdf-container"><div class="post__iframe"><iframe loading="lazy" width="100%" height="700px" style="border: none;" src="/cafsowrag/media/files/CSCSD-The-Think-Do-Tank-Group-Press-Statement.pdf">
+  </iframe></div>
+<p>A press statement issued by the Think-Do Tank Group of the Civil Society Coalition on Sustainable Development (CSCSD) on emerging developments in fighting COVID-19 pandemic in Nigeria. The Think-Do Tank Group is national arm of Civil Society Coalition on Sustainable Development(CSCSD)which is a coalition of over 2,000-member networks, NGOs, media, professional associations including the academia, youth and women groups collaborating with government to accelerate the implementation of SGDs in Nigeria.</p>
+</div>
             ]]>
         </content>
     </entry>
